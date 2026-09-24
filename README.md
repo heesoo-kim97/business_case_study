@@ -4,6 +4,8 @@ A collection of real-world and hypothetical business cases exploring problems at
 
 This repository documents how I approach business problems from an analytical and operational perspective—from understanding the problem and identifying key stakeholders to analyzing data, developing insights, and recommending potential solutions.
 
+---
+
 ## Purpose
 
 The goal of this repository is to develop and demonstrate practical skills in:
@@ -17,6 +19,8 @@ The goal of this repository is to develop and demonstrate practical skills in:
 * Root-cause analysis
 * Decision-making using data
 * Translating business problems into technical requirements
+
+---
 
 ## Case Study Framework
 
@@ -35,6 +39,7 @@ Each business case follows a structured approach:
 11. **KPIs** — How would success be measured?
 12. **Business Impact** — What could improve if the solution succeeds?
 
+---
 
 ## Case Categories
 
@@ -51,6 +56,8 @@ Cases will primarily focus on:
 * Transportation
 * Inventory Management
 
+---
+
 ## Long-Term Goal
 
 Build a portfolio demonstrating the ability to connect **business problems → data → operations → technology → measurable outcomes**.
@@ -59,4 +66,14 @@ Rather than focusing only on producing an analysis, each case asks:
 
 > **What is the business trying to accomplish, what is preventing it from doing so, and how can data and technology help?**
 
+---
 
+## Disclaimer
+
+All business cases in this repository are created for educational, analytical, and portfolio purposes.
+
+Unless otherwise stated, analyses are based on publicly available information, publicly accessible datasets, or simulated/hypothetical data. The analyses do not use confidential, proprietary, or non-public company information.
+
+References to companies, products, or organizations are intended solely to provide business context and do not imply endorsement, affiliation, or access to internal company information.
+
+Where assumptions or estimates are used, they are clearly identified within the individual case study.

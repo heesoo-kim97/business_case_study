@@ -121,3 +121,34 @@ Lower Operating Complexity
 Lower Costs
         ↓
 Competitive Prices
+```
+---
+
+# 5. Competitive Strategy
+
+Trader Joe's appears to use a combination of cost efficiency and differentiation.
+
+## Cost Efficiency
+
+Trader Joe's reduces costs through:
+- Small Stores
+- Limited assortment
+- Private-label products
+- Direct sourcing
+- Large purchasing volumes
+- Minimal advertising
+- Simple operations
+
+Differentiation
+
+Trader Joe's differentiates through:
+- Exclusive products
+- Private labels
+- Unique product sourcing
+- Treasure-hunt shopping
+- Employee interaction
+- Distinctive store culture
+- Strong brand identity
+
+Strategic Position
+>Trader Joe's does not simply try to be the cheapest grocery store. It tries to provide more percieved value than customers expect for the price they pay.
